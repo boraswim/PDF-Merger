@@ -1,8 +1,8 @@
 # PDF Merger
 
-## Project Description
+## App Description
 
-This project's main goal is to merge different PDFs into a one single PDF file **using Python**. This app will gather all PDFs the user has given in the directory and merge them alphabetically into one single PDF file. This app is mainly focused on **educational purposes.**
+This app's main goal is to merge different PDFs into a one single PDF file **using Python**. This app will gather all PDFs the user has given in the directory and merge them alphabetically into one single PDF file. This app is mainly focused on **educational purposes.**
 
 ## Used Libraries
 
